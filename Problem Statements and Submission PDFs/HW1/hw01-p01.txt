@@ -1,0 +1,15 @@
+Satellite: GRACE Follow-On (google it, if you want more information)
+
+Epoch: Specified in UTC Time System 
+	(this date is exactly 0h August 1, 2023 in the GPS Time System)
+        EPOCH1:   Year     Month      Day
+        EPOCH2:   Hour     Minute     Seconds
+
+POS (Position, ECI, in meters)          X       Y         Z
+VEL (Velocity, ECI, in meters/second)  Xdot     Ydot      Zdot
+
+           EPOCH1                  2023.0                 7.0                31.0                                        
+           EPOCH2                    23.0                59.0                42.0                                        
+  GRC-C    POS           0.60938619264713E+07 -0.18403935709873E+07  0.25900900321043E+07 
+  GRC-C    VEL          -0.27098701192949E+04  0.97560581475608E+03  0.70476044362125E+04
+
